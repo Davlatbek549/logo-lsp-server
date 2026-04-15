@@ -28,23 +28,23 @@ This project provides essential IDE-like features such as syntax highlighting, n
 
 ### Syntax Highlighting
 
-![Syntax Highlighting](images/variable.png)
+![Syntax Highlighting](src/images/variable.png)
 
 ### Go-to-Declaration
 
-![Go to Declaration](images/full_demo.png)
+![Go to Declaration](src/images/full_demo.png)
 
 ### Hover
 
-![Hover](images/hover.png)
+![Hover](src/images/hover.png)
 
 ### Document Highlight
 
-![Highlight](images/highlight.png)
+![Highlight](src/images/highlight.png)
 
 ### Diagnostics
 
-![Diagnostics](images/diagnostics.png)
+![Diagnostics](src/images/diagnostics.png)
 
 ---
 
